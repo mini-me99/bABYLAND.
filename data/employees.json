@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "email": "john@babylandkids.com",
+    "name": "John Doe",
+    "password": "password123"
+  },
+  {
+    "id": "2",
+    "email": "jane@babylandkids.com",
+    "name": "Jane Smith",
+    "password": "password123"
+  },
+  {
+    "id": "3",
+    "email": "yassinbassem539@gmail.com",
+    "name": "yassin bassem",
+    "password": "Yassin1980"
+  }
+]
